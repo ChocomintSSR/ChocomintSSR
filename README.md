@@ -7,5 +7,5 @@ In all mods I develop, [Wild Adventure](https://github.com/ChocomintTW/WildAdven
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocomintTW&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocomintTW&exclude_repo=ChocomintWebPage,MathUtils-Javadoc&hide=QMake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocomintTW&exclude_repo=ChocomintWebPage,MathUtils-Javadoc&hide=QMake,SCSS,Less,CSS)
 <?-- &layout=compact -->
