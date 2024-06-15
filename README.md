@@ -1,6 +1,6 @@
 # Hi, I'm Chocomint!
 
-I'm a high school student who likes to coding. Kotlin is my lord.<br>
+I'm a university student who likes coding. Kotlin is my lord.<br>
 
 ## My Activity
 
